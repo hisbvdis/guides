@@ -1,4 +1,4 @@
 # Словари
 
-- [Общие термины](common-terms.md)
+- [Общие термины](common.md)
 - [UI-элементы](ui-elements.md)
