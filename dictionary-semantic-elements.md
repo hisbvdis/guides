@@ -85,6 +85,7 @@
 
 #### `<main>`
 Основное уникальное содержимое, не повторяющееся на других страницах
+- Как правило, — это всё, что между `<header>` и `<footer>`
 
 #### `<mark>`
 Выделение текста (например, цветом, будто маркером)
@@ -174,3 +175,4 @@
 
 # Источники
 - [MDN | HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [Can I Include](https://caninclude.glitch.me/)
